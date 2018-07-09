@@ -21,6 +21,16 @@
 * [scylla代理池](https://scylla.wildcat.io/) 自动抓取代理池
 * [神箭手](http://www.shenjian.io)
 
+## Framework
+
+* [Patterns — Generic Repository with Typescript and Node.js](https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e)
+
+## Recruit
+
+* [Engquiz](http://www.engquiz.me/)
+* [Coder Profile](https://www.coderlist.io/)
+* [Open mind Learning](https://www.openmindlearning.com/) 1v1 mentor
+
 # Algorithm
 
 ## Learn
@@ -30,3 +40,8 @@
 ## Image
 
 * [robosat](https://github.com/mapbox/robosat)  卫星图片分析
+* [Kaggle’s Yelp Restaurant Photo Classification Competition, Fast.ai Style](https://harveynick.com/2018/06/24/kaggles-yelp-restaurant-photo-classification-competition-fast-ai-style-part-1/)
+
+## Code Search
+
+* [Deep Code Search](https://blog.acolyer.org/2018/06/26/deep-code-search/)
