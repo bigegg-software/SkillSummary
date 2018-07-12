@@ -25,6 +25,10 @@
 
 * [Patterns — Generic Repository with Typescript and Node.js](https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e)
 
+## Pipeline
+
+* [Gaia](https://github.com/gaia-pipeline/gaia)
+
 ## Recruit
 
 * [Engquiz](http://www.engquiz.me/)
