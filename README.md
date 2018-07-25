@@ -35,6 +35,10 @@
 * [Coder Profile](https://www.coderlist.io/)
 * [Open mind Learning](https://www.openmindlearning.com/) 1v1 mentor
 
+## DevOP
+
+* [D2C](https://d2c.io/stackhub/wordpress-light) Deploy scalable wordpress
+
 # Algorithm
 
 ## Learn
