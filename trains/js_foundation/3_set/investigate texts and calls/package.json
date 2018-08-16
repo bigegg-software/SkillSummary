@@ -1,0 +1,7 @@
+{
+  "name": "investigate texts and calls",
+  "version": "0.0.1",
+  "dependencies": {
+    "csv-reader": "^1.0.3",
+  }
+}
