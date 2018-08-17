@@ -64,3 +64,4 @@
 ## MVP
 * [Ideazap](https://ideazap.xyz/)
 * [Ideas watch](https://www.ideaswatch.com/)
+* [Idea crunch](https://www.idea-crunch.com/)
