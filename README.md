@@ -54,6 +54,9 @@
 ## Labelling
 
 * [Labelbox](https://github.com/Labelbox/Labelbox)
+* [CVAT](https://github.com/opencv/cvat)
+* [CATMAID](https://catmaid.readthedocs.io/en/stable/introduction.html)
+* [LabelD](https://github.com/sweppner/labeld)
 
 ## Code Search
 
