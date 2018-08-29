@@ -58,6 +58,7 @@
 * [CATMAID](https://catmaid.readthedocs.io/en/stable/introduction.html)
 * [LabelD](https://github.com/sweppner/labeld)
 * [VIA](http://www.robots.ox.ac.uk/~vgg/software/via/)
+* [VoTT](https://github.com/Microsoft/VoTT) Electron-based
 
 ## Code Search
 
