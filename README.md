@@ -27,14 +27,16 @@
 
 ## Pipeline
 
+* [dbdiagram](https://dbdiagram.io/home) Draw Entity-Relationship Diagram Easily
 * [Gaia](https://github.com/gaia-pipeline/gaia)
 * [Jane.ai](https://jane.ai) Search engine for Biz
 
 ## Recruit
 
 * [Engquiz](http://www.engquiz.me/)
-* [Coder Profile](https://www.coderlist.io/)
+* [Coder Profile](https://www.coderlist.io/) Coder Profile
 * [Open mind Learning](https://www.openmindlearning.com/) 1v1 mentor
+* [tara.ai](https://tara.ai/) TARA is the intelligent product builder, managing software builds from start to finish. Deploy on-demand developers, automatically scope your project and build task lists all through one platform.
 
 ## DevOP
 
