@@ -28,6 +28,7 @@
 ## Pipeline
 
 * [Gaia](https://github.com/gaia-pipeline/gaia)
+* [Jane.ai](https://jane.ai) Search engine for Biz
 
 ## Recruit
 
