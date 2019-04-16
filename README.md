@@ -1,4 +1,10 @@
+
 # Engineering
+
+## Lessons
+
+* [踩坑实录](./踩坑实录.md)  这里记录一些事故及其分析
+
 
 ## Guide
 
@@ -41,6 +47,8 @@
 ## DevOP
 
 * [D2C](https://d2c.io/stackhub/wordpress-light) Deploy scalable wordpress
+* [面向(服务端)开发人员的运维ABC] (./devop.md) humbly by jones0036
+
 
 # Algorithm
 
