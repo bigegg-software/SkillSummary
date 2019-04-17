@@ -79,7 +79,7 @@
 ## Awesome Lib
 
 * [Top NodeJS Libraries and Tools For Machine Learning](https://medium.com/crowdbotics/top-nodejs-libraries-and-tools-for-machine-learning-ae0c106c9a69)
-
+* [Browse state-of-the-art](https://paperswithcode.com/sota)
 
 ## Image
 
