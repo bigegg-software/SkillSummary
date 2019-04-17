@@ -43,6 +43,8 @@
 * [Patterns — Generic Repository with Typescript and Node.js](https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e)
 * [Awesome Serveless](https://github.com/anaibol/awesome-serverless)
 * [Jamstack](https://jamstack.org/) Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
+* [Awesome Cloud Native Tutorials Awesome](https://github.com/manifoldco/awesome-cloud-native-tutorials)
+* [Building a Cloud Ready Express.js Application](https://github.com/CloudNativeJS/tutorial)
 
 ## Parse related
 
