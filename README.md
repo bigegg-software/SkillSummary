@@ -7,6 +7,7 @@
 
 ## Guide
 
+* [Agile Lite: Agile without all the burnout](https://github.com/davebs/AgileLite)
 * [Google Developer Style](https://developers.google.com/style/highlights) [](http://www.shenjian.io)
 * [My Microservices FAQ](https://jimmybogard.com/my-microservices-faq)
 * [Quick-to-scale architecture for task-based processing](http://www.bnikolic.co.uk/blog/quick-scaling-aws.html)  用AWS构建基于任务的高可扩展架构
@@ -22,6 +23,8 @@
 ## FrontEnd
 
 * [NCForm](https://github.com/ncform/ncform) 仅需配置即可生成表单UI及其交互行为
+* [Stenciljs](https://stenciljs.com/) The magical, reusable web component compiler
+* [Bit.dev](https://bit.dev/) Components are building blocks. You are the architect
 
 ## Reverse Engineer
 
@@ -39,6 +42,7 @@
 * [Cloud Native Landscape](https://landscape.cncf.io) 
 * [Patterns — Generic Repository with Typescript and Node.js](https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e)
 * [Awesome Serveless](https://github.com/anaibol/awesome-serverless)
+* [Jamstack](https://jamstack.org/) Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
 
 ## Parse related
 
@@ -100,6 +104,7 @@
 ## Code Search
 
 * [Deep Code Search](https://blog.acolyer.org/2018/06/26/deep-code-search/)
+* [Aroma](https://ai.facebook.com/blog/aroma-ml-for-code-recommendation/) Using machine learning for code recommendation
 
 ## Gadgets
 
@@ -111,3 +116,11 @@
 * [Ideazap](https://ideazap.xyz/)
 * [Ideas watch](https://www.ideaswatch.com/)
 * [Idea crunch](https://www.idea-crunch.com/)
+
+
+# Design
+
+## Design -> Code
+
+* [Smart visual tools for front-end developers](https://gimli.app/)
+
