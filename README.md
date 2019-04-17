@@ -11,9 +11,13 @@
 * [My Microservices FAQ](https://jimmybogard.com/my-microservices-faq)
 * [Quick-to-scale architecture for task-based processing](http://www.bnikolic.co.uk/blog/quick-scaling-aws.html)  用AWS构建基于任务的高可扩展架构
 
-## SaaS
+## Nodejs
 
-* [floydhub](https://www.floydhub.com/) 机器学习云服务
+* [Visualizing npm Package Dependencies with Sprotty](https://typefox.io/visualizing-npm-package-dependencies-with-sprotty)
+
+## WebIDE
+
+* [Gitpod: A One-Click Online IDE](https://typefox.io/gitpod-a-one-click-online-ide)
 
 ## FrontEnd
 
@@ -30,10 +34,15 @@
 * [scylla代理池](https://scylla.wildcat.io/) 自动抓取代理池
 * [神箭手](http://www.shenjian.io)
 
-## Framework
+## Serverless/CloudNative
 
 * [Cloud Native Landscape](https://landscape.cncf.io) 
 * [Patterns — Generic Repository with Typescript and Node.js](https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e)
+* [Awesome Serveless](https://github.com/anaibol/awesome-serverless)
+
+## Parse related
+
+* [parse server ansible](https://github.com/stanfy/parse-server-ansible)
 
 ## Pipeline
 
@@ -60,6 +69,11 @@
 
 * [天池课堂](https://tianchi.aliyun.com/learn/index.htm)
 
+## Awesome Lib
+
+* [Top NodeJS Libraries and Tools For Machine Learning](https://medium.com/crowdbotics/top-nodejs-libraries-and-tools-for-machine-learning-ae0c106c9a69)
+
+
 ## Image
 
 * [robosat](https://github.com/mapbox/robosat)  卫星图片分析
@@ -79,9 +93,17 @@
 * [VIA](http://www.robots.ox.ac.uk/~vgg/software/via/)
 * [VoTT](https://github.com/Microsoft/VoTT) Electron-based
 
+## SaaS
+
+* [floydhub](https://www.floydhub.com/) 机器学习云服务
+
 ## Code Search
 
 * [Deep Code Search](https://blog.acolyer.org/2018/06/26/deep-code-search/)
+
+## Gadgets
+
+* [AWS DeepRacer](https://www.amazon.com/dp/B07JMHRKQG)
 
 # Startup
 
