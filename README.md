@@ -107,6 +107,7 @@
 
 * [Deep Code Search](https://blog.acolyer.org/2018/06/26/deep-code-search/)
 * [Aroma](https://ai.facebook.com/blog/aroma-ml-for-code-recommendation/) Using machine learning for code recommendation
+* [Nerdydata](https://nerdydata.com/technology-reports)
 
 ## Gadgets
 
