@@ -45,6 +45,7 @@
 * [Jamstack](https://jamstack.org/) Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
 * [Awesome Cloud Native Tutorials Awesome](https://github.com/manifoldco/awesome-cloud-native-tutorials)
 * [Building a Cloud Ready Express.js Application](https://github.com/CloudNativeJS/tutorial)
+* [xg2xg](https://github.com/jhuangtw-dev/xg2xg) by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 
 ## Parse related
 
