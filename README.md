@@ -114,6 +114,10 @@
 
 * [AWS DeepRacer](https://www.amazon.com/dp/B07JMHRKQG)
 
+## Generative music
+
+* [Boomy](https://boomy.com/)
+
 # Startup
 
 ## MVP
