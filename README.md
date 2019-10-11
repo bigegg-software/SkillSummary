@@ -90,6 +90,7 @@
 ## Video
 
 * [DensePose](http://densepose.org/)
+* [body-pix](https://github.com/tensorflow/tfjs-models/tree/master/body-pix)
 
 ## Labelling
 
